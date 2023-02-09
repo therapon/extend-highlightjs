@@ -1,0 +1,1 @@
+let x = Table.price in x + 1 

@@ -1,0 +1,1 @@
+let PurchaseByCustomer = Purchase | with_key(.customer_id)

@@ -1,0 +1,1 @@
+let Target = count(FraudReport, window=since(daily())) > 0
